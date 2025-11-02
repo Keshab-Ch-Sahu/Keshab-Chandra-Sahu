@@ -75,18 +75,6 @@ nav ul {
   gap: 2rem;
 }
 
-/* nav ul li a {
-  color: var(--text-secondary);
-  text-decoration: none;
-  font-weight: 500;
-  transition: color 0.3s ease;
-  font-size: 0.95rem;
-}
-
-nav ul li a:hover {
-  color: var(--heliotrope);
-} */
-
 nav ul li a {
   color: var(--text-secondary);
   text-decoration: none;
@@ -273,27 +261,6 @@ section {
   max-width: 600px;
   margin: 0 auto;
 }
-
-/* About Section */
-/* #about {
-  background: linear-gradient(
-    135deg,
-    var(--persian-indigo) 0%,
-    var(--russian-violet-2) 100%
-  );
-}
-
-.about-content {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.about-content p {
-  font-size: 1.1rem;
-  color: var(--text-secondary);
-  margin-bottom: 1.5rem;
-  text-align: justify;
-} */
 
 /* About Section - Redesigned */
 #about {
@@ -747,51 +714,6 @@ section {
   font-size: 0.95rem;
   border: 1px solid rgba(199, 125, 255, 0.2);
 }
-
-/* Education Section */
-/* #education {
-  background: linear-gradient(
-    135deg,
-    var(--tekhelet) 0%,
-    var(--persian-indigo) 100%
-  );
-}
-
-.education-card {
-  background: rgba(36, 0, 70, 0.6);
-  border: 1px solid rgba(157, 78, 221, 0.3);
-  border-radius: 12px;
-  padding: 3rem;
-  max-width: 700px;
-  margin: 10px auto;
-  backdrop-filter: blur(10px);
-}
-
-.education-card h3 {
-  font-size: 1.8rem;
-  color: var(--mauve);
-  margin-bottom: 1rem;
-}
-
-.education-card .institution {
-  color: var(--heliotrope);
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
-}
-
-.education-card .board {
-  color: var(--text-muted);
-  margin-bottom: 1.5rem;
-}
-
-.education-card .duration {
-  color: var(--text-secondary);
-  font-family: "Fira Code", monospace;
-  background: rgba(157, 78, 221, 0.2);
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
-  display: inline-block;
-} */
 
 /* Education Section - Timeline Design */
 #education {

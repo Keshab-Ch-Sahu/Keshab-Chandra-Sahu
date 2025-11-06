@@ -8,7 +8,7 @@
 
 ## ⚡ About This Repository
 
-This repository (`Keshab-Chandraa-Sahu`) contains all the major experiments and projects I’ve worked on during my journey in Computer Science.  
+This repository (`Keshab-Chandra-Sahu`) contains all the major experiments and projects I’ve worked on during my journey in Computer Science.  
 It’s a mix of learning, building, breaking stuff, and building again — but better.
 
 ---

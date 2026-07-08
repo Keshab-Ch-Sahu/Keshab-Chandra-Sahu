@@ -75,6 +75,18 @@ nav ul {
   gap: 2rem;
 }
 
+/* nav ul li a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+  font-size: 0.95rem;
+}
+
+nav ul li a:hover {
+  color: var(--heliotrope);
+} */
+
 nav ul li a {
   color: var(--text-secondary);
   text-decoration: none;
